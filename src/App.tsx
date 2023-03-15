@@ -1,8 +1,11 @@
+import { Layout } from './components/Layout';
+import { ChartPage } from './pages/ChartPage';
+
 function App() {
   return (
-    <div className='App'>
-      <h1>Vite + React</h1>
-    </div>
+    <Layout>
+      <ChartPage />
+    </Layout>
   );
 }
 
