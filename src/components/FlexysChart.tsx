@@ -1,3 +1,4 @@
+/* eslint-disable */
 // @ts-nocheck
 import { useLayoutEffect } from 'react';
 import Chart from 'react-apexcharts';
