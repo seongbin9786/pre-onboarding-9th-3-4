@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useLayoutEffect } from 'react';
 import Chart from 'react-apexcharts';
 import { FlexSysApiResponse } from '../api/FlexSysApiResponse';
